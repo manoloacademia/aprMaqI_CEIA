@@ -1,4 +1,4 @@
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 # Aprendizaje de Maquina I
 Este repositorio contiene el material de clases (presentaciones, ejercicios y notebooks) para Aprendizaje de Maquina I (CEIA - FIUBA). 
@@ -8,7 +8,7 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 ### Organización del Repositorio
 
 ``` 
-    Clase #
+    clase#
         teoria
         ejercicios
         jupyter_notebooks
@@ -17,7 +17,7 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 
 ### Requerimientos
 * Lenguaje de Programación
-    * Python >3.8
+    * Python >=3.8
     * Pip / Conda para instalar librerías
 * Librerías
     * Numpy
@@ -39,8 +39,8 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 ## Contenido
 
 ### [Clase 1](clase_1/README.md) 
-* Introducción a Deep Learning
-* Redes Feedforward
+* Introducción a la Materia
+* Introducción a Machine Learning
 
 ---
 Esta obra está bajo una
