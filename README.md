@@ -42,6 +42,13 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 * Introducción a la Materia
 * Introducción a Machine Learning
 
+## Bibliografia
+- Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
+- The Elements of Statistical Learning - Trevor Hastie (Ed. Springer)
+- An Introduction to Statistical Learning - Gareth James (Ed. Springer)
+- Pattern Recognition And Machine Learning - Christopher Bishop (Ed. Springer)
+- [Deep Learning](https://www.deeplearningbook.org/) - Ian Goodfellow 
+
 ---
 Esta obra está bajo una
 [Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional][cc-by-nc-sa].
