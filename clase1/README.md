@@ -1,6 +1,6 @@
 # Clase 1
 
-## [Teoría](teoria/clase_1.key)
+## [Teoría](teoria/clase_1.pdf)
 
 * Introducción a la Materia
 * Introducción a Machine Learning

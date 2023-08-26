@@ -38,7 +38,7 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 
 ## Contenido
 
-### [Clase 1](clase_1/README.md) 
+### [Clase 1](clase1/README.md) 
 * Introducción a la Materia
 * Introducción a Machine Learning
 
