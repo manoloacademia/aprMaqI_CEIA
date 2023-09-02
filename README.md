@@ -42,10 +42,23 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 * Introducción a la Materia
 * Introducción a Machine Learning
 
+### [Clase 2](clase2/README.md) 
+* Aprendizaje supervisado
+* Conceptos de Regresión
+* Regresión lineal simple y múltiple
+* Regresión polinómica
+* Métodos de evaluación de regresiones
+* Variables dummy
+* Construcción de modelos
+
 ## Bibliografia
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
 - The Elements of Statistical Learning - Trevor Hastie (Ed. Springer)
 - An Introduction to Statistical Learning - Gareth James (Ed. Springer)
+- Data Science from Scratch First Principles with Python - Joel Gru (Ed. O’Reilly)
+- Artificial Intelligence for Humans, Volume 1 Fundamental Algorithms - Jeff Heaton (Ed. Heaton Research) 
+- Artificial Intelligence for Humans, Volume 2 Nature-Inspired Algorithms - Jeff Heaton (Ed. Heaton Research) 
+- Artificial Intelligence for Humans, Volume 3 Deep Learning and Neural Networks - Jeff Heaton (Ed. Heaton Research) 
 - Pattern Recognition And Machine Learning - Christopher Bishop (Ed. Springer)
 - [Deep Learning](https://www.deeplearningbook.org/) - Ian Goodfellow 
 

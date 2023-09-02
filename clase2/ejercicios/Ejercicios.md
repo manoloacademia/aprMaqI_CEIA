@@ -1,0 +1,9 @@
+# Ejercicios para prácticar
+
+1. Lea el dataset `Salary_Data.csv`, el cual consiste en datos de salarios versus años de experiencia laboral de diferentes sujetos. Realice un analisis inicial de los datos y construya un modelo de regresion lineal simple, haciendo previamente la separación entre datos de entrenamiento y validación. Mida las metrica de error RMSE y MAE y construya un diagrama de barra que compare a ambos. 
+
+2. Usando el dataset `winequality-red.csv`, el cual consiste en datos de vinos rojos basados en datos fisico-quimicos y una metrica de calidad de vino. Mas info en [Kaggle](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009). 
+    1. Realice un estudio de variables y aplique un modelo de regresion lineal multiple. Realice todos los pasos necesarios de construcción de modelos (limpieza de datos, separación, entrenamiento y validación)
+    2. Elija alguna metrica e implemente algun metodo de construcción de modelo. 
+    3. Arme tres modelos diferentes usando diferentres atributos. Compararelos con dos o más metrica de evaluación. Cual fue el mejor modelo? Todas las metricas coincidieron o metricas diferentes evaluan como mejor a diferentes modelos? Discuta los resultados.
+3. Usando el dataset 'bluegills.csv', el cual consiste en el registro de 78 lepomis macrochirus medidos en longitud y edad. Se busca determinar como el tamaño del pez depende de la edad. Realice un analisis inicial de los datos y construya modelos de regresion polinomica de diferente orden, haciendo previamente la separación entre datos de entrenamiento y validación. Mida con alguna metrica y encuentre el modelo que mejor se ajusta a los datos de validación.
