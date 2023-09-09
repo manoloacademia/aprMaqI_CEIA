@@ -51,14 +51,14 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 * Variables dummy
 * Construcción de modelos
 
-### [Clase 3](clase3/clase3.pdf)
+### [Clase 3](clase3/README.md)
 
 * Conceptos de clasificación
 * Regresión logistica simple y múltiple
 * Regresión logistica multi-clase
 * Métodos de evaluación de clasificación
-* Curva ROC
 * Clasificador KNN
+* Curva ROC
 
 ## Bibliografia
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
