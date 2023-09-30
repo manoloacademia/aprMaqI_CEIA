@@ -25,7 +25,6 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 	* Scikit-Learn
     * SciPy
     * PyTorch
-    * Tensorflow
     * Matplotlib
     * Seaborn
 * Consola Interactiva de Python 
@@ -77,6 +76,15 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
     * Clasificador de vector de soportes
     * Máquina de vector de soportes como clasificador
     * Máquina de vector de soportes como regresión
+
+### [Clase 6](clase6/README.md)
+
+* Redes Neuronales
+* Breve historia
+* Perceptrones y neuronas sigmoideas
+* Redes Feed-Foward
+* Breve introducción de entrenamiento
+* Pytorch
 
 ## Bibliografia
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
